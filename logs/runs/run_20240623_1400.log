@@ -1,0 +1,69 @@
+2024-06-23 14:00:01 Started: 20240623_1400
+2024-06-23 14:00:01 Running: scripts/run.sh conf/iata_1.txt
+2024-06-23 14:00:01 Running: scripts/run.sh conf/iata_2.txt
+2024-06-23 14:00:01 Running: python3 scripts/main.py MMK KGD 20240623_1400
+2024-06-23 14:00:01 Running: python3 scripts/main.py LED PEK 20240623_1400
+2024-06-23 14:00:01 Running: python3 scripts/main.py KGD MMK 20240623_1400
+2024-06-23 14:00:01 Running: scripts/run.sh conf/iata_3.txt
+2024-06-23 14:00:01 Running: python3 scripts/main.py PEK LED 20240623_1400
+2024-06-23 14:00:01 Running: python3 scripts/main.py MOW EVN 20240623_1400
+2024-06-23 14:00:01 Running: python3 scripts/main.py EVN MOW 20240623_1400
+2024-06-23 14:02:34 Running: python3 scripts/main.py LED KZN 20240623_1400
+2024-06-23 14:02:34 Running: python3 scripts/main.py KZN LED 20240623_1400
+2024-06-23 14:02:35 Running: python3 scripts/main.py LED MMK 20240623_1400
+2024-06-23 14:02:35 Running: python3 scripts/main.py MMK LED 20240623_1400
+2024-06-23 14:02:36 Running: python3 scripts/main.py MOW MCX 20240623_1400
+2024-06-23 14:02:36 Running: python3 scripts/main.py MCX MOW 20240623_1400
+2024-06-23 14:05:12 Running: python3 scripts/main.py LED TOF 20240623_1400
+2024-06-23 14:05:12 Running: python3 scripts/main.py TOF LED 20240623_1400
+2024-06-23 14:05:12 Running: python3 scripts/main.py LED KGD 20240623_1400
+2024-06-23 14:05:12 Running: python3 scripts/main.py KGD LED 20240623_1400
+2024-06-23 14:05:12 Running: python3 scripts/main.py MOW MSQ 20240623_1400
+2024-06-23 14:05:12 Running: python3 scripts/main.py MSQ MOW 20240623_1400
+2024-06-23 14:07:45 Running: python3 scripts/main.py MOW GYD 20240623_1400
+2024-06-23 14:07:45 Running: python3 scripts/main.py GYD MOW 20240623_1400
+2024-06-23 14:07:47 Running: python3 scripts/main.py LED VVO 20240623_1400
+2024-06-23 14:07:47 Running: python3 scripts/main.py VVO LED 20240623_1400
+2024-06-23 14:07:48 Running: python3 scripts/main.py LED IST 20240623_1400
+2024-06-23 14:07:48 Running: python3 scripts/main.py IST LED 20240623_1400
+2024-06-23 14:10:21 Running: python3 scripts/main.py LED PKC 20240623_1400
+2024-06-23 14:10:21 Running: python3 scripts/main.py PKC LED 20240623_1400
+2024-06-23 14:10:22 Running: python3 scripts/main.py MOW HKT 20240623_1400
+2024-06-23 14:10:22 Running: python3 scripts/main.py HKT MOW 20240623_1400
+2024-06-23 14:10:24 Running: python3 scripts/main.py LED MRV 20240623_1400
+2024-06-23 14:10:24 Running: python3 scripts/main.py MRV LED 20240623_1400
+2024-06-23 14:12:57 Running: python3 scripts/main.py MOW MMK 20240623_1400
+2024-06-23 14:12:57 Running: python3 scripts/main.py MMK MOW 20240623_1400
+2024-06-23 14:13:01 Running: python3 scripts/main.py MOW HAN 20240623_1400
+2024-06-23 14:13:01 Running: python3 scripts/main.py HAN MOW 20240623_1400
+2024-06-23 14:13:02 Running: python3 scripts/main.py LED AER 20240623_1400
+2024-06-23 14:13:02 Running: python3 scripts/main.py AER LED 20240623_1400
+2024-06-23 14:15:32 Running: python3 scripts/main.py MOW KGD 20240623_1400
+2024-06-23 14:15:32 Running: python3 scripts/main.py KGD MOW 20240623_1400
+2024-06-23 14:15:34 Running: python3 scripts/main.py MOW PEK 20240623_1400
+2024-06-23 14:15:34 Running: python3 scripts/main.py PEK MOW 20240623_1400
+2024-06-23 14:15:39 Running: python3 scripts/main.py LED EVN 20240623_1400
+2024-06-23 14:15:39 Running: python3 scripts/main.py EVN LED 20240623_1400
+2024-06-23 14:18:07 Running: python3 scripts/main.py MOW LED 20240623_1400
+2024-06-23 14:18:07 Running: python3 scripts/main.py LED MOW 20240623_1400
+2024-06-23 14:18:10 Running: python3 scripts/main.py MOW KZN 20240623_1400
+2024-06-23 14:18:10 Running: python3 scripts/main.py KZN MOW 20240623_1400
+2024-06-23 14:18:16 Running: python3 scripts/main.py LED MCX 20240623_1400
+2024-06-23 14:18:16 Running: python3 scripts/main.py MCX LED 20240623_1400
+2024-06-23 14:20:40 Running: python3 scripts/main.py MOW IST 20240623_1400
+2024-06-23 14:20:40 Running: python3 scripts/main.py IST MOW 20240623_1400
+2024-06-23 14:20:42 Running: python3 scripts/main.py MOW TOF 20240623_1400
+2024-06-23 14:20:42 Running: python3 scripts/main.py TOF MOW 20240623_1400
+2024-06-23 14:20:51 Running: python3 scripts/main.py LED MSQ 20240623_1400
+2024-06-23 14:20:51 Running: python3 scripts/main.py MSQ LED 20240623_1400
+2024-06-23 14:23:17 Running: python3 scripts/main.py MOW MRV 20240623_1400
+2024-06-23 14:23:17 Running: python3 scripts/main.py MRV MOW 20240623_1400
+2024-06-23 14:23:18 Running: python3 scripts/main.py MOW VVO 20240623_1400
+2024-06-23 14:23:18 Running: python3 scripts/main.py VVO MOW 20240623_1400
+2024-06-23 14:23:29 Running: python3 scripts/main.py LED GYD 20240623_1400
+2024-06-23 14:23:29 Running: python3 scripts/main.py GYD LED 20240623_1400
+2024-06-23 14:26:08 Running: python3 scripts/main.py LED HKT 20240623_1400
+2024-06-23 14:26:08 Running: python3 scripts/main.py HKT LED 20240623_1400
+2024-06-23 14:28:45 Running: cat files/data_*20240623_1400.txt > files/data/data_20240623_1400.txt
+2024-06-23 14:28:45 Running: rm files/data_*20240623_1400.txt
+2024-06-23 14:28:45 Completed: 20240623_1400
