@@ -2,3 +2,4 @@ logs/
 files/
 scripts/conf.py
 scripts/__pycache__
+token.txt
