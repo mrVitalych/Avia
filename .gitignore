@@ -1,6 +1,7 @@
 # Ignore
-logs/
-files/
+logs/*.log
+logs/runs/*.log
+files/data/*.txt
 scripts/conf.py
 scripts/__pycache__
 token.txt
