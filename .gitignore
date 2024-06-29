@@ -6,6 +6,6 @@ scripts/__pycache__
 token.txt
 
 # Allow
-!logs/data_MOW_LED.log
-!logs/runs/run_20240629_0800.log
-!files/data/data_20240629_0800.txt
+!/logs/data_MOW_LED.log
+!/logs/runs/run_20240629_0800.log
+!/files/data/data_20240629_0800.txt
