@@ -1,0 +1,4 @@
+logs/
+files/
+scripts/conf.py
+scripts/__pycache__
